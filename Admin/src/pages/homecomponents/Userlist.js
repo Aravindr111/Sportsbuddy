@@ -23,15 +23,15 @@ const UserList =()=>{
       };
 
       const handleDelete = async (id) => {
-        if (window.confirm('Are you sure you want to delete this event?'))
+        if (window.confirm('Are you sure you want to delete this User?'))
              {
           try {
             await axios.delete(`http://localhost:3000/api/Users/${id}`);
             setUser(users.filter(user => user._id !== id)); 
             alert('Event deleted successfully');
           } catch (error) {
-            console.error('Error deleting event:', error);
-            alert('Failed to delete event');
+            console.error('Error deleting User:', error);
+            alert('Failed to delete User');
           }
         }
       };
