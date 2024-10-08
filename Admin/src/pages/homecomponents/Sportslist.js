@@ -31,14 +31,14 @@ useEffect(() => {
   };
 
   const handleDelete = async (id) => {
-    if (window.confirm('Are you sure you want to delete this event?')) {
+    if (window.confirm('Are you sure you want to delete this Sport?')) {
       try {
         await axios.delete(`http://localhost:3000/api/Sports/${id}`);
         setSports(sports.filter(event => event._id !== id)); 
-        alert('Event deleted successfully');
+        alert('Sport deleted successfully');
       } catch (error) {
         console.error('Error deleting event:', error);
-        alert('Failed to delete event');
+        alert('Failed to delete Sport');
       }
     }
   };
