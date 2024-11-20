@@ -2,6 +2,15 @@
 
 This repository contains two React projects: one for the user interface and another for the admin panel, under the `sportsapp` folder.
 
+## Project Demo
+
+Admin Interface:
+https://github.com/user-attachments/assets/79ff8b68-e836-4058-bc3a-65d66ef125e8
+
+User interface:
+https://github.com/user-attachments/assets/291329fd-c18a-4b4f-8474-dcd6ad3b50c9
+
+
 ## Project Structure
 sportsapp/ ├── user/ # User Interface Project ├── admin/ # Admin Panel Project
 
@@ -73,11 +82,8 @@ mongod
 
 You should now have both the user and admin projects running on your local machine. If you encounter any issues, please check the console for errors and ensure all dependencies are correctly installed.
 
-
-
-
-
-
+User interface:
+https://github.com/user-attachments/assets/291329fd-c18a-4b4f-8474-dcd6ad3b50c9
 
 
 
