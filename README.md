@@ -5,10 +5,18 @@ This repository contains two React projects: one for the user interface and anot
 ## Project Demo
 
 Admin Interface:
-https://github.com/user-attachments/assets/79ff8b68-e836-4058-bc3a-65d66ef125e8
+
+https://github.com/user-attachments/assets/8ca55e0c-f482-46ab-83ae-ff09f5e02789
+
+
+
 
 User interface:
-https://github.com/user-attachments/assets/291329fd-c18a-4b4f-8474-dcd6ad3b50c9
+
+
+
+https://github.com/user-attachments/assets/94a96984-71b2-4db9-93a0-4aedbc198e49
+
 
 
 ## Project Structure
