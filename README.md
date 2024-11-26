@@ -90,8 +90,6 @@ mongod
 
 You should now have both the user and admin projects running on your local machine. If you encounter any issues, please check the console for errors and ensure all dependencies are correctly installed.
 
-User interface:
-https://github.com/user-attachments/assets/291329fd-c18a-4b4f-8474-dcd6ad3b50c9
 
 
 
